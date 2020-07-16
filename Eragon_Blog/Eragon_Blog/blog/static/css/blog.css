@@ -1,0 +1,39 @@
+.techfont{
+  font-family: 'Indie Flower', cursive;
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+
+.postdate{
+  text-align: center;
+}
+
+.posttitle{
+  font-family: 'Indie Flower', cursive;
+  font-size: 3em;
+  text-align: center;
+}
+
+.postcontent{
+  font-family: 'Indie Flower', cursive;
+  font-size: 1.5em;
+}
+
+.centerstage{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.btn-comment{
+  position: absolute;
+  right: 0px;
+}
+
+.welcome-point{
+  color:black;
+  font-size: 1.5em;
+}
+
+.mybrand {
+  font-size: 2em;
+}
